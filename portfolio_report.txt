@@ -1,0 +1,14 @@
+====== STOCK PORTFOLIO REPORT ======
+
+Stock       : AAPL
+Price       : $180
+Quantity    : 5
+Investment  : $900
+----------------------------------------
+Stock       : TSLA
+Price       : $250
+Quantity    : 3
+Investment  : $750
+----------------------------------------
+
+Total Investment Value : $1650
